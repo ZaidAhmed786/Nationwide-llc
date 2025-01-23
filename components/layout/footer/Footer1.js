@@ -43,7 +43,7 @@ export default function Footer1() {
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <Link href="/tel:+1 (833) 860-0074">+1 (833) 860-0074</Link>
+                                                <Link href="/tel:+1 (352) 225-7680">+1 (352) 225-7680</Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
