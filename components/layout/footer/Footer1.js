@@ -133,7 +133,7 @@ export default function Footer1() {
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-center mt-5 pt-4">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                                © All Copyright {new Date().getFullYear()}  |   Zolara  <Link href="/">Consulting LLC</Link>
+                                © All Copyright {new Date().getFullYear()}  |   Nation  <Link href="/">Bandwidth LLC</Link>
                             </p>
                            
                         </div>
