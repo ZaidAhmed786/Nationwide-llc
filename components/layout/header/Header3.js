@@ -24,7 +24,7 @@ export default function Header1({
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <Link href="/tel:+1 (352) 225-7680">+1 (352) 225-7680</Link>
+                                    <Link href="/tel:(863) 216-8262">(863) 216-8262</Link>
                                 </li>
                             </ul>
                            
