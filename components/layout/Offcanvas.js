@@ -37,7 +37,7 @@ export default function Offcanvas({
                                             <i className="fal fa-map-marker-alt" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">10835 Treadway School Rd, Leesburg, FL 34788</Link>
+                                            <Link target="_blank" href="#">432 Downing Cir, Davenport, FL 33897-8592</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">

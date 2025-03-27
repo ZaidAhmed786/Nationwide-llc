@@ -39,7 +39,7 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                10835 Treadway School Rd, Leesburg, FL 34788
+                                                432 Downing Cir, Davenport, FL 33897-8592
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />

@@ -63,7 +63,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <div className="text-white fs-6 fw-bold">
-                                                        110835 Treadway School Rd, Leesburg, FL 34788
+                                                        1432 Downing Cir, Davenport, FL 33897-8592
                                                         </div>
                                                     </div>
                                                 </div>
