@@ -61,7 +61,7 @@ export default function Offcanvas({
                                             <i className="far fa-phone" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/tel:+11002345909">+1 (863) 204-2262</Link>
+                                            <Link href="/tel:+11002345909">+1 (888) 868-8345</Link>
                                         </div>
                                     </li>
                                 </ul>

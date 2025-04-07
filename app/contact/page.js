@@ -34,7 +34,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Call to ask any question</p>
                                                         <div >
-                                                            <Link href="/tel:+1 (863) 204-2262" className="text-white fs-6 fw-bold">+1 (863) 204-2262</Link>
+                                                            <Link href="/tel:+1 (888) 868-8345" className="text-white fs-6 fw-bold">+1 (888) 868-8345</Link>
                                                         </div>
                                                     </div>
                                                 </div>
