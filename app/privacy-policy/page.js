@@ -1,5 +1,6 @@
 
 import Layout from "@/components/layout/Layout"
+import SiteSeal from "@/components/layout/SiteSeal"
 import Link from "next/link"
 export default function PrivacyPolicy() {
 
@@ -81,6 +82,14 @@ export default function PrivacyPolicy() {
                         </div>
                     </div>
                 </section>
+                <div style={{
+        position: 'fixed',
+        bottom: '20px',
+        right: '20px',
+        zIndex: 9999
+      }}>
+        <SiteSeal />
+      </div>
 
             </Layout>
         </>

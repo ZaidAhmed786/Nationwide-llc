@@ -17,7 +17,7 @@
 //                             <div className="content">
 //                                 <p>Call Us 7/24</p>
 //                                 <h3>
-//                                     <Link href="/tel:+2085550112">+208-555-0112</Link>
+//                                     <Link href="/tel:+1 (888) 868-8345">+208-555-0112</Link>
 //                                 </h3>
 //                             </div>
 //                         </div>
