@@ -22,7 +22,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Tell Us How Can We Help</p>
                                                         <h3>
-                                                            <Link href="/tel:+1 (888) 868-8345">+1 (888) 868-8345</Link>
+                                                            <a href="tel:+18888688345">+1 (888) 868-8345</a>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -37,7 +37,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Make a Quote</p>
                                                         <h3>
-                                                            <Link href="/mailto:infotech@gmail.com">sales@nbandwidth.com </Link>
+                                                            <Link href="mailto:infotech@gmail.com">sales@nbandwidth.com </Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -62,7 +62,7 @@ export default function Contact1() {
                                     <div className="col-lg-6">
                                         <div className="contact-content">
                                             
-                                            <form action="contact.php" id="contact-form" method="POST" className="contact-form-items">
+                                            <form action="contact" id="contact-form" method="POST" className="contact-form-items">
                                                 <div className="row g-4">
                                                     <div className="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
                                                         <div className="form-clt">

@@ -43,11 +43,11 @@ export default function Footer1() {
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <Link href="/tel:+1 (888) 868-8345">+1 (888) 868-8345</Link>
+                                                <a href="tel:+18888688345">+1 (888) 868-8345</a>
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
-                                                <Link href="/mailto:sales@nbandwidth.com ">sales@nbandwidth.com </Link>
+                                                <Link href="mailto:sales@nbandwidth.com ">sales@nbandwidth.com </Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <Link href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>

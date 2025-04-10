@@ -26,15 +26,15 @@ export default function About1() {
                                         <div className=" wow fadeInUp" data-wow-delay=".7s">
                                            
                                             <div className="content d-flex gap-4">
-                                                <div className='d-flex align-items-center gap-2'><img src="/assets/img/check-solid (1).png" alt="" width="20px" /><h5> Reliable Internet Connection</h5></div>
-                                                <div className='d-flex align-items-center gap-2'><img src="/assets/img/check-solid (1).png" alt="" width="20px" /><h5>Affordable Landline Plans</h5></div>
+                                                <div className='d-flex align-items-center gap-2'><img src="/assets/img/check-solid (1).png" alt="" width="15px" /><h5> Reliable Internet Connection</h5></div>
+                                                <div className='d-flex align-items-center gap-2'><img src="/assets/img/check-solid (1).png" alt="" width="15px" /><h5>Affordable Landline Plans</h5></div>
                                             </div>
                                         </div>
                                         <div className="wow fadeInUp" data-wow-delay=".9s">
                                            
                                             <div className="content d-flex gap-3">
-                                                 <div className='d-flex align-items-center gap-2'><img src="/assets/img/check-solid (1).png" alt="" width="20px" /><h5> High-Speed Cable Iternet</h5></div>
-                                                 <div className='d-flex align-items-center gap-2'><img src="/assets/img/check-solid (1).png" alt="" width="20px" /><h5>Lightening-Fast Fiber Internet</h5></div>
+                                                 <div className='d-flex align-items-center gap-2'><img src="/assets/img/check-solid (1).png" alt="" width="15px" /><h5> High-Speed Cable Internet</h5></div>
+                                                 <div className='d-flex align-items-center gap-2'><img src="/assets/img/check-solid (1).png" alt="" width="15px" /><h5>Lightening-Fast Fiber Internet</h5></div>
                                             </div>
                                         </div>
                                     </div>
