@@ -74,7 +74,7 @@ export default function Contact() {
                                     <div className="col-lg-6">
                                         <div className="contact-content">
                                        
-                                            <form action="contact.php" id="contact-form" method="POST" className="contact-form-items">
+                                            <form action="contact" id="contact-form" method="POST" className="contact-form-items">
                                                 <div className="row g-4">
                                                     <div className="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
                                                         <div className="form-clt">
