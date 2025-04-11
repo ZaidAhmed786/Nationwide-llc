@@ -5705,7 +5705,7 @@ span {
     gap: 15px;
   }
 }
-.pricing-wrapper .section-title-area .nav .nav-Link className="text-decoration-none"{
+.pricing-wrapper .section-title-area .nav .nav-Link{
   text-align: center;
   padding: 10px 40px;
   background-color: transparent;
@@ -5718,13 +5718,13 @@ span {
   border: 1px solid var(--border);
 }
 @media (max-width: 991px) {
-  .pricing-wrapper .section-title-area .nav .nav-Link className="text-decoration-none"{
+  .pricing-wrapper .section-title-area .nav .nav-Link{
     padding: 14px 45px;
     font-size: 18px;
   }
 }
 @media (max-width: 575px) {
-  .pricing-wrapper .section-title-area .nav .nav-Link className="text-decoration-none"{
+  .pricing-wrapper .section-title-area .nav .nav-Link{
     padding: 12px 20px;
     font-size: 14px;
   }
