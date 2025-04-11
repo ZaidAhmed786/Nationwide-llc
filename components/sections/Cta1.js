@@ -1,5 +1,5 @@
 
-import Link from 'next/link'
+import Link from "next/link"
 
 export default function Cta1() {
     return (
@@ -18,7 +18,7 @@ export default function Cta1() {
                         </div>
                         <div className="cta-items">
                             <h3 className="wow fadeInUp" data-wow-delay=".5s">Stay Connected With <br /> Cutting Edge IT</h3>
-                            <Link href="/contact" className="theme-btn bg-white wow fadeInUp" data-wow-delay=".7s">
+                            <Link className="text-decoration-none"href="/contact" className="theme-btn bg-white wow fadeInUp" data-wow-delay=".7s">
                                 get A Quote
                                 <i className="fa-solid fa-arrow-right-long" />
                             </Link>

@@ -1,5 +1,5 @@
 
-import Link from 'next/link'
+import Link from "next/link"
 
 export default function Pricing1() {
     return (
@@ -58,7 +58,7 @@ export default function Pricing1() {
                                             </ul>
                                             <div className="pricing-button">
                                                 
-                                                <Link href="/contact" className="pricing-btn mt-4">
+                                                <Link className="text-decoration-none"href="/contact" className="pricing-btn mt-4">
                                                     Order Plan
                                                     <i className="fa-solid fa-arrow-right-long" />
                                                 </Link>
@@ -98,7 +98,7 @@ export default function Pricing1() {
                                             </ul>
                                             <div className="pricing-button">
                                                 
-                                                <Link href="/contact" className="pricing-btn mt-4">
+                                                <Link className="text-decoration-none"href="/contact" className="pricing-btn mt-4">
                                                     Order Plan
                                                     <i className="fa-solid fa-arrow-right-long" />
                                                 </Link>
@@ -138,7 +138,7 @@ export default function Pricing1() {
                                             </ul>
                                             <div className="pricing-button">
                                                
-                                                <Link href="/contact" className="pricing-btn mt-4">
+                                                <Link className="text-decoration-none"href="/contact" className="pricing-btn mt-4">
                                                     Order Plan
                                                     <i className="fa-solid fa-arrow-right-long" />
                                                 </Link>

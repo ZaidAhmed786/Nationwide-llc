@@ -1,5 +1,5 @@
 'use client'
-import Link from 'next/link'
+import Link from "next/link"
 import { Autoplay, Navigation, Pagination } from "swiper/modules"
 import { Swiper, SwiperSlide } from "swiper/react"
 
@@ -64,14 +64,14 @@ export default function Service1() {
                                         </div>
                                         <div className="content">
                                             <h4>
-                                                <Link href="/service-details">
+                                                <Link className="text-decoration-none"href="/service-details">
                                                 Satellite Internet
                                                 </Link>
                                             </h4>
                                             <p>
                                             Reliable satellite internet for rural and remote areas, providing consistent connectivity where traditional services fall short.
                                             </p>
-                                            <Link href="/service-details" className="theme-btn-2 mt-3">
+                                            <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
                                                 read More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -86,14 +86,14 @@ export default function Service1() {
                                         </div>
                                         <div className="content">
                                             <h4>
-                                                <Link href="/service-details">
+                                                <Link className="text-decoration-none"href="/service-details">
                                                 Fiber-Optic Internet
                                                 </Link>
                                             </h4>
                                             <p>
                                             Experience ultra-fast fiber-optic internet with speeds up to 1 Gbps, ensuring seamless streaming, gaming, and browsing.
                                             </p>
-                                            <Link href="/service-details" className="theme-btn-2 mt-3">
+                                            <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
                                                 read More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -108,14 +108,14 @@ export default function Service1() {
                                         </div>
                                         <div className="content">
                                             <h4>
-                                                <Link href="/service-details">
+                                                <Link className="text-decoration-none"href="/service-details">
                                                 VoIP and Landline Services
                                                 </Link>
                                             </h4>
                                             <p>
                                             Affordable VoIP and landline services for clear and reliable voice communication, with flexible plans tailored to your needs.
                                             </p>
-                                            <Link href="/service-details" className="theme-btn-2 mt-3">
+                                            <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
                                                 read More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -130,14 +130,14 @@ export default function Service1() {
                                         </div>
                                         <div className="content">
                                             <h4>
-                                                <Link href="/service-details">
+                                                <Link className="text-decoration-none"href="/service-details">
                                                 TV and Streaming Services
                                                 </Link>
                                             </h4>
                                             <p>
                                             Bundled TV and streaming packages with your internet plan, providing entertainment options that cater to all tastes.
                                             </p>
-                                            <Link href="/service-details" className="theme-btn-2 mt-3">
+                                            <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
                                                 read More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>
@@ -152,14 +152,14 @@ export default function Service1() {
                                         </div>
                                         <div className="content">
                                             <h4>
-                                                <Link href="/service-details">
+                                                <Link className="text-decoration-none"href="/service-details">
                                                 Wi-Fi Solutions
                                                 </Link>
                                             </h4>
                                             <p>
                                             Comprehensive Wi-Fi solutions for homes and businesses, ensuring strong, uninterrupted wireless connectivity throughout your space.
                                             </p>
-                                            <Link href="/service-details" className="theme-btn-2 mt-3">
+                                            <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
                                                 read More
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>

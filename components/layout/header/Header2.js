@@ -20,7 +20,7 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link href="mailto:sales@nbandwidth.com" className="link">refunds@nbandwidth.com</Link>
+                                    <Link className="text-decoration-none"href="mailto:sales@nbandwidth.com" className="link">refunds@nbandwidth.com</Link>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
@@ -37,7 +37,7 @@ export default function Header1({
                             <div className="header-main style-2">
                                 <div className="header-left">
                                     <div className="logo">
-                                        <Link href="/" className="header-logo">
+                                        <Link className="text-decoration-none"href="/" className="header-logo">
                                             <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Nationwide Bandwidth LLC</h3>
                                         </Link>
                                     </div>

@@ -25,11 +25,11 @@ export default function ServiceDetails() {
                                             </div>
                                             <div className="widget-categories">
                                                 <ul>
-                                                    <li><Link href="/service-details">Database Security</Link><i className="fa-solid fa-arrow-right-long" /></li>
-                                                    <li><Link href="/service-details">IT Consultancy</Link><i className="fa-solid fa-arrow-right-long" /></li>
-                                                    <li className="active"><Link href="/service-details">App Development</Link><i className="fa-solid fa-arrow-right-long" /></li>
-                                                    <li><Link href="/service-details">UI/UX Design</Link><i className="fa-solid fa-arrow-right-long" /></li>
-                                                    <li><Link href="/service-details">Cyber Security</Link><i className="fa-solid fa-arrow-right-long" /></li>
+                                                    <li><Link className="text-decoration-none"href="/service-details">Database Security</Link><i className="fa-solid fa-arrow-right-long" /></li>
+                                                    <li><Link className="text-decoration-none"href="/service-details">IT Consultancy</Link><i className="fa-solid fa-arrow-right-long" /></li>
+                                                    <li className="active"><Link className="text-decoration-none"href="/service-details">App Development</Link><i className="fa-solid fa-arrow-right-long" /></li>
+                                                    <li><Link className="text-decoration-none"href="/service-details">UI/UX Design</Link><i className="fa-solid fa-arrow-right-long" /></li>
+                                                    <li><Link className="text-decoration-none"href="/service-details">Cyber Security</Link><i className="fa-solid fa-arrow-right-long" /></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -53,7 +53,7 @@ export default function ServiceDetails() {
                                                 </div>
                                                 <h4>Need Help? Call Here</h4>
                                                 <h5>
-                                                    <Link href="/tel:+1 (888) 868-8345">+208-555-0112</Link>
+                                                    <Link className="text-decoration-none"href="/tel:+1 (888) 868-8345">+208-555-0112</Link>
                                                 </h5>
                                             </div>
                                         </div>

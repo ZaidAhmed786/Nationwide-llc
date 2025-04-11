@@ -14,7 +14,7 @@ export default function MobileMenu() {
         <>
             <div className="mobile-menu  mb-3 mean-container">
                 <div className="mean-bar">
-                    <Link href="/#nav" className="meanmenu-reveal" style={{ right: 0, left: 'auto', display: 'inline' }}>
+                    <Link className="text-decoration-none"href="/#nav" className="meanmenu-reveal" style={{ right: 0, left: 'auto', display: 'inline' }}>
                         <span>
                             <span><span />
                             </span>
@@ -23,7 +23,7 @@ export default function MobileMenu() {
                     <nav className="mean-nav ">
                         <ul>
                             <li className="has-dropdown active menu-thumb">
-                                <Link href="/">
+                                <Link className="text-decoration-none"href="/">
                                     Home
                                  
                                 </Link>
@@ -32,13 +32,13 @@ export default function MobileMenu() {
                             </li>
                            
                             <li>
-                                <Link href="/">
+                                <Link className="text-decoration-none"href="/">
                                    Our Services
                                     
                                 </Link>
                                 <ul className="submenu" style={{ display: `${activeItem === 2 ? "block" : "none"}` }}>
-                                         <li><Link href="/service">Cable TV</Link></li>
-                                         <li><Link href="/service-carousel">Internet</Link></li>
+                                         <li><Link className="text-decoration-none"href="/service">Cable TV</Link></li>
+                                         <li><Link className="text-decoration-none"href="/service-carousel">Internet</Link></li>
                                    
                                 </ul>
                                 <a className={`mean-expand ${activeItem === 2 ? "mean-clicked" : ""}`} onClick={() => handleActiveItem(2)}>
@@ -46,11 +46,11 @@ export default function MobileMenu() {
                                 </a>
                             </li>
                             <li>
-                                <Link href="/about">About Us</Link>
+                                <Link className="text-decoration-none"href="/about">About Us</Link>
                             </li>
                       
                             <li className="mean-last">
-                                <Link href="/contact">Contact Us</Link>
+                                <Link className="text-decoration-none"href="/contact">Contact Us</Link>
                             </li>
                         </ul>
                     </nav></div></div>

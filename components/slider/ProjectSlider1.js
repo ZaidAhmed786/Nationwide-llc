@@ -52,9 +52,9 @@ export default function ProjectSlider1({ showDots }) {
                                 <div className="project-content">
                                     <p>Technology</p>
                                     <h4>
-                                        <Link href="/project-details">Platform Integration</Link>
+                                        <Link className="text-decoration-none"href="/project-details">Platform Integration</Link>
                                     </h4>
-                                    <Link href="/project-details" className="icon">
+                                    <Link className="text-decoration-none"href="/project-details" className="icon">
                                         <i className="fa-solid fa-arrow-right" />
                                     </Link>
                                 </div>
@@ -68,9 +68,9 @@ export default function ProjectSlider1({ showDots }) {
                                 <div className="project-content">
                                     <p>Security</p>
                                     <h4>
-                                        <Link href="/project-details">Network Security</Link>
+                                        <Link className="text-decoration-none"href="/project-details">Network Security</Link>
                                     </h4>
-                                    <Link href="/project-details" className="icon">
+                                    <Link className="text-decoration-none"href="/project-details" className="icon">
                                         <i className="fa-solid fa-arrow-right" />
                                     </Link>
                                 </div>
@@ -84,9 +84,9 @@ export default function ProjectSlider1({ showDots }) {
                                 <div className="project-content">
                                     <p>Solution</p>
                                     <h4>
-                                        <Link href="/project-details">Web Development</Link>
+                                        <Link className="text-decoration-none"href="/project-details">Web Development</Link>
                                     </h4>
-                                    <Link href="/project-details" className="icon">
+                                    <Link className="text-decoration-none"href="/project-details" className="icon">
                                         <i className="fa-solid fa-arrow-right" />
                                     </Link>
                                 </div>
@@ -100,9 +100,9 @@ export default function ProjectSlider1({ showDots }) {
                                 <div className="project-content">
                                     <p>Technology</p>
                                     <h4>
-                                        <Link href="/project-details">IT Management</Link>
+                                        <Link className="text-decoration-none"href="/project-details">IT Management</Link>
                                     </h4>
-                                    <Link href="/project-details" className="icon">
+                                    <Link className="text-decoration-none"href="/project-details" className="icon">
                                         <i className="fa-solid fa-arrow-right" />
                                     </Link>
                                 </div>
@@ -116,9 +116,9 @@ export default function ProjectSlider1({ showDots }) {
                                 <div className="project-content">
                                     <p>Solution</p>
                                     <h4>
-                                        <Link href="/project-details">Web Development</Link>
+                                        <Link className="text-decoration-none"href="/project-details">Web Development</Link>
                                     </h4>
-                                    <Link href="/project-details" className="icon">
+                                    <Link className="text-decoration-none"href="/project-details" className="icon">
                                         <i className="fa-solid fa-arrow-right" />
                                     </Link>
                                 </div>
@@ -132,9 +132,9 @@ export default function ProjectSlider1({ showDots }) {
                                 <div className="project-content">
                                     <p>Technology</p>
                                     <h4>
-                                        <Link href="/project-details">IT Management</Link>
+                                        <Link className="text-decoration-none"href="/project-details">IT Management</Link>
                                     </h4>
-                                    <Link href="/project-details" className="icon">
+                                    <Link className="text-decoration-none"href="/project-details" className="icon">
                                         <i className="fa-solid fa-arrow-right" />
                                     </Link>
                                 </div>

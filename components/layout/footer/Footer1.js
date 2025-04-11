@@ -15,7 +15,7 @@ export default function Footer1() {
                             <div className="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
-                                        <Link href="/">
+                                        <Link className="text-decoration-none"href="/">
                                             <h2 className="text-white">Nationwide Bandwidth LLC</h2>
                                         </Link>
                                     </div>
@@ -47,10 +47,10 @@ export default function Footer1() {
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
-                                                <Link href="mailto:sales@nbandwidth.com ">sales@nbandwidth.com </Link>
+                                                <Link className="text-decoration-none"href="mailto:sales@nbandwidth.com ">sales@nbandwidth.com </Link>
                                             </li>
                                             <li className="d-flex ">
-                                                <Link href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>
+                                                <Link className="text-decoration-none"href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>
                                             </li>
                                         </ul>
                                       
@@ -65,31 +65,31 @@ export default function Footer1() {
                                     </div>
                                     <ul className="list-area">
                                         <li>
-                                            <Link href="/">
+                                            <Link className="text-decoration-none" href="/">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Home
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/about">
+                                            <Link className="text-decoration-none"href="/about">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 About Us
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/service-carousel">
+                                            <Link className="text-decoration-none"href="/service-carousel">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Internet Services
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/service">
+                                            <Link className="text-decoration-none"href="/service">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Cable Deals
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/contact">
+                                            <Link className="text-decoration-none"href="/contact">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Contact Us
                                             </Link>
@@ -104,19 +104,19 @@ export default function Footer1() {
                                     </div>
                                     <ul className="list-area">
                                         <li>
-                                            <Link href="/privacy-policy">
+                                            <Link className="text-decoration-none"href="/privacy-policy">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Privacy Policy
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/refund">
+                                            <Link className="text-decoration-none"href="/refund">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Refund Policy
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/terms">
+                                            <Link className="text-decoration-none"href="/terms">
                                                 <i className="fa-solid fa-chevron-right" />
                                                 Terms and conditions
                                             </Link>
@@ -133,12 +133,12 @@ export default function Footer1() {
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-center mt-5 pt-4">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                                © All Copyright {new Date().getFullYear()}  |   Nation  <Link href="/">Bandwidth LLC</Link>
+                                © All Copyright {new Date().getFullYear()}  |   Nation  <Link className="text-decoration-none"href="/">Bandwidth LLC</Link>
                             </p>
                            
                         </div>
                     </div>
-                    <Link href="#" id="scrollUp" className="scroll-icon">
+                    <Link className="text-decoration-none scroll-icon"href="#" id="scrollUp" >
                         <i className="far fa-arrow-up" />
                     </Link>
                 </div>

@@ -17,7 +17,7 @@ export default function Project() {
                                         <div className="project-content">
                                             <p>Technology</p>
                                             <h4>
-                                                <Link href="/project-details">Platform Integration</Link>
+                                                <Link className="text-decoration-none"href="/project-details">Platform Integration</Link>
                                             </h4>
                                         </div>
                                     </div>
@@ -30,7 +30,7 @@ export default function Project() {
                                         <div className="project-content">
                                             <p>Security</p>
                                             <h4>
-                                                <Link href="/project-details">Network Security</Link>
+                                                <Link className="text-decoration-none"href="/project-details">Network Security</Link>
                                             </h4>
                                         </div>
                                     </div>
@@ -43,7 +43,7 @@ export default function Project() {
                                         <div className="project-content">
                                             <p>Solution</p>
                                             <h4>
-                                                <Link href="/project-details">Web Development</Link>
+                                                <Link className="text-decoration-none"href="/project-details">Web Development</Link>
                                             </h4>
                                         </div>
                                     </div>
@@ -56,7 +56,7 @@ export default function Project() {
                                         <div className="project-content">
                                             <p>Technology</p>
                                             <h4>
-                                                <Link href="/project-details">IT Management</Link>
+                                                <Link className="text-decoration-none"href="/project-details">IT Management</Link>
                                             </h4>
                                         </div>
                                     </div>
@@ -69,7 +69,7 @@ export default function Project() {
                                         <div className="project-content">
                                             <p>Technology</p>
                                             <h4>
-                                                <Link href="/project-details">Design Solutions</Link>
+                                                <Link className="text-decoration-none"href="/project-details">Design Solutions</Link>
                                             </h4>
                                         </div>
                                     </div>
@@ -82,7 +82,7 @@ export default function Project() {
                                         <div className="project-content">
                                             <p>Technology</p>
                                             <h4>
-                                                <Link href="/project-details">Software Development</Link>
+                                                <Link className="text-decoration-none"href="/project-details">Software Development</Link>
                                             </h4>
                                         </div>
                                     </div>

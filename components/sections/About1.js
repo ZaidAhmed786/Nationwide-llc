@@ -1,6 +1,6 @@
 
 
-import Link from 'next/link'
+import Link from "next/link"
 import VideoPopup from '../elements/VideoPopup'
 import CounterUp from '../elements/CounterUp'
 
@@ -40,7 +40,7 @@ export default function About1() {
                                     </div>
                                     <div className="about-author">
                                         <div className="about-button wow fadeInUp" data-wow-delay=".5s">
-                                            <Link href="/about" className="theme-btn">
+                                            <Link className="text-decoration-none"href="/about" className="theme-btn">
                                                 Request A Quote
                                                 <i className="fa-solid fa-arrow-right-long" />
                                             </Link>

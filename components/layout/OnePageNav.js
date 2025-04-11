@@ -5,7 +5,7 @@
 //         <>
 //             <ul>
 //                 <li className="has-dropdown active menu-thumb">
-//                     <Link href="/">
+//                     <Link className="text-decoration-none"href="/">
 //                         Home
 //                         <i className="fas fa-angle-down ps-1" />
 //                     </Link>
@@ -16,10 +16,10 @@
 //                                     <div className="homemenu-thumb">
 //                                         <img src="assets/img/header/home-1.jpg" alt="img" />
 //                                         <div className="demo-button">
-//                                             <Link href="/" className="theme-btn">
+//                                             <Link className="text-decoration-none"href="/" className="theme-btn">
 //                                                 <span>Multi Page</span>
 //                                             </Link>
-//                                             <Link href="/index-one-page" className="theme-btn">
+//                                             <Link className="text-decoration-none"href="/index-one-page" className="theme-btn">
 //                                                 <span>One Page</span>
 //                                             </Link>
 //                                         </div>
@@ -34,10 +34,10 @@
 //                                     <div className="homemenu-thumb mb-15">
 //                                         <img src="assets/img/header/home-2.jpg" alt="img" />
 //                                         <div className="demo-button">
-//                                             <Link href="/index-2" className="theme-btn">
+//                                             <Link className="text-decoration-none"href="/index-2" className="theme-btn">
 //                                                 <span>Multi Page</span>
 //                                             </Link>
-//                                             <Link href="/index-two-page" className="theme-btn">
+//                                             <Link className="text-decoration-none"href="/index-two-page" className="theme-btn">
 //                                                 <span>One Page</span>
 //                                             </Link>
 //                                         </div>
@@ -52,10 +52,10 @@
 //                                     <div className="homemenu-thumb mb-15">
 //                                         <img src="assets/img/header/home-3.jpg" alt="img" />
 //                                         <div className="demo-button">
-//                                             <Link href="/index-3" className="theme-btn">
+//                                             <Link className="text-decoration-none"href="/index-3" className="theme-btn">
 //                                                 <span>Multi Page</span>
 //                                             </Link>
-//                                             <Link href="/index-three-page" className="theme-btn">
+//                                             <Link className="text-decoration-none"href="/index-three-page" className="theme-btn">
 //                                                 <span>One Page</span>
 //                                             </Link>
 //                                         </div>
@@ -70,10 +70,10 @@
 //                                     <div className="homemenu-thumb mb-15">
 //                                         <img src="assets/img/header/home-4.jpg" alt="img" />
 //                                         <div className="demo-button">
-//                                             <Link href="/index-4" className="theme-btn">
+//                                             <Link className="text-decoration-none"href="/index-4" className="theme-btn">
 //                                                 <span>Multi Page</span>
 //                                             </Link>
-//                                             <Link href="/index-four-page" className="theme-btn">
+//                                             <Link className="text-decoration-none"href="/index-four-page" className="theme-btn">
 //                                                 <span>One Page</span>
 //                                             </Link>
 //                                         </div>
@@ -89,19 +89,19 @@
 //                     </ul>
 //                 </li>
 //                 <li>
-//                     <Link href="#about">About</Link>
+//                     <Link className="text-decoration-none"href="#about">About</Link>
 //                 </li>
 //                 <li>
-//                     <Link href="#service">Services</Link>
+//                     <Link className="text-decoration-none"href="#service">Services</Link>
 //                 </li>
 //                 <li>
-//                     <Link href="#project">Projects</Link>
+//                     <Link className="text-decoration-none"href="#project">Projects</Link>
 //                 </li>
 //                 <li>
-//                     <Link href="#team">Team</Link>
+//                     <Link className="text-decoration-none"href="#team">Team</Link>
 //                 </li>
 //                 <li>
-//                     <Link href="#blog">Blog</Link>
+//                     <Link className="text-decoration-none"href="#blog">Blog</Link>
 //                 </li>
 //             </ul>
 

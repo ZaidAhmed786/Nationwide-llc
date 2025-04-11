@@ -1,5 +1,5 @@
 
-import Link from 'next/link'
+import Link from "next/link"
 
 export default function News1() {
     return (
@@ -22,7 +22,7 @@ export default function News1() {
                                 </div>
                                 <div className="news-content">
                                     <h3>
-                                        <Link href="/news-details">
+                                        <Link className="text-decoration-none"href="/news-details">
                                             Top 5 Most Famous <br />
                                             Technology Trend In 2024
                                         </Link>
@@ -30,7 +30,7 @@ export default function News1() {
                                     <p>
                                         Nulla ut turpis a nisi vulputate varius non ut lectus. Ut vulputate tempus tincidunt. Duis mi tellus,
                                     </p>
-                                    <Link href="/news-details" className="theme-btn-2 mt-3">
+                                    <Link className="text-decoration-none"href="/news-details" className="theme-btn-2 mt-3">
                                         Read More
                                     </Link>
                                 </div>
@@ -45,7 +45,7 @@ export default function News1() {
                                 </div>
                                 <div className="news-content">
                                     <h3>
-                                        <Link href="/news-details">
+                                        <Link className="text-decoration-none"href="/news-details">
                                             Top 5 Most Famous <br />
                                             Technology Trend In 2024
                                         </Link>
@@ -53,7 +53,7 @@ export default function News1() {
                                     <p>
                                         Nulla ut turpis a nisi vulputate varius non ut lectus. Ut vulputate tempus tincidunt. Duis mi tellus,
                                     </p>
-                                    <Link href="/news-details" className="theme-btn-2 mt-3">
+                                    <Link className="text-decoration-none"href="/news-details" className="theme-btn-2 mt-3">
                                         Read More
                                     </Link>
                                 </div>
@@ -68,7 +68,7 @@ export default function News1() {
                                 </div>
                                 <div className="news-content">
                                     <h3>
-                                        <Link href="/news-details">
+                                        <Link className="text-decoration-none"href="/news-details">
                                             Top 5 Most Famous <br />
                                             Technology Trend In 2024
                                         </Link>
@@ -76,7 +76,7 @@ export default function News1() {
                                     <p>
                                         Nulla ut turpis a nisi vulputate varius non ut lectus. Ut vulputate tempus tincidunt. Duis mi tellus,
                                     </p>
-                                    <Link href="/news-details" className="theme-btn-2 mt-3">
+                                    <Link className="text-decoration-none"href="/news-details" className="theme-btn-2 mt-3">
                                         Read More
                                     </Link>
                                 </div>

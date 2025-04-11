@@ -1,7 +1,7 @@
 'use client'
 import Layout from "@/components/layout/Layout"
 import BrandSlider1 from "@/components/slider/BrandSlider1"
-import Link from 'next/link'
+import Link from "next/link"
 
 
 

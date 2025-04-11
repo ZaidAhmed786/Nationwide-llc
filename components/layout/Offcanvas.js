@@ -14,7 +14,7 @@ export default function Offcanvas({
                         <div className="offcanvas__content">
                             <div className="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                                 <div className="offcanvas__logo">
-                                    <Link href="/">
+                                    <Link className="text-decoration-none"href="/">
                                         <h3>Nationwide Bandwidth LLC</h3>
                                     </Link>
                                 </div>
@@ -37,7 +37,7 @@ export default function Offcanvas({
                                             <i className="fal fa-map-marker-alt" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">432 Downing Cir, Davenport, FL 33897-8592</Link>
+                                            <Link className="text-decoration-none"target="_blank" href="#">432 Downing Cir, Davenport, FL 33897-8592</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -45,7 +45,7 @@ export default function Offcanvas({
                                             <i className="fal fa-envelope" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/mailto:info@azent.com"><span className="mailto:sales@nbandwidth.com">sales@nbandwidth.com </span></Link>
+                                            <Link className="text-decoration-none"href="/mailto:info@azent.com"><span className="mailto:sales@nbandwidth.com">sales@nbandwidth.com </span></Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -53,7 +53,7 @@ export default function Offcanvas({
                                             <i className="fal fa-clock" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link target="_blank" href="#">Mon-Sat, 9am-7pm (EST)</Link>
+                                            <Link className="text-decoration-none"target="_blank" href="#">Mon-Sat, 9am-7pm (EST)</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -61,20 +61,20 @@ export default function Offcanvas({
                                             <i className="far fa-phone" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/tel:+11002345909">+1 (888) 868-8345</Link>
+                                            <Link className="text-decoration-none"href="/tel:+11002345909">+1 (888) 868-8345</Link>
                                         </div>
                                     </li>
                                 </ul>
                                 <div className="header-button mt-4">
-                                    <Link href="/contact" className="theme-btn text-center">
+                                    <Link className="text-decoration-none"href="/contact" className="theme-btn text-center">
                                         <span>get A Quote<i className="fa-solid fa-arrow-right-long" /></span>
                                     </Link>
                                 </div>
                                 <div className="social-icon d-flex align-items-center">
-                                    <Link href="#"><i className="fab fa-facebook-f" /></Link>
-                                    <Link href="#"><i className="fab fa-twitter" /></Link>
-                                    <Link href="#"><i className="fab fa-youtube" /></Link>
-                                    <Link href="#"><i className="fab fa-linkedin-in" /></Link>
+                                    <Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link>
+                                    <Link className="text-decoration-none"href="#"><i className="fab fa-twitter" /></Link>
+                                    <Link className="text-decoration-none"href="#"><i className="fab fa-youtube" /></Link>
+                                    <Link className="text-decoration-none"href="#"><i className="fab fa-linkedin-in" /></Link>
                                 </div>
                             </div>
                         </div>
