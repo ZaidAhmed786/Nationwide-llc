@@ -16,7 +16,7 @@ export default function Footer1() {
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link className="text-decoration-none"href="/">
-                                            <h2 className="text-white">Nationwide Bandwidth LLC</h2>
+                                        <img src="./assets/img/logo/logo.png" className="img-fluid" width="80%"  />
                                         </Link>
                                     </div>
                                     <div className="footer-content">

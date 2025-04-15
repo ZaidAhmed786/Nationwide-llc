@@ -40,7 +40,7 @@ export default function Header1({
                                 <div className="header-left">
                                     <div className="logo">
                                         <Link className="text-decoration-none header-logo"href="/" >
-                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Nationwide Bandwidth LLC</h3>
+                                            <img src="./assets/img/logo/logo.png" className="img-fluid" width="60%"  />
                                         </Link>
                                     </div>
                                 </div>
