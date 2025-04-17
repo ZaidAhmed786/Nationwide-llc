@@ -24,7 +24,7 @@ export default function Header1({
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <a href="tel:+18888688345">+1 (888) 868-8345</a>
+                                    <a href="tel:+18888688345" className="link">+1 (888) 868-8345</a>
                                 </li>
                             </ul>
                             <div className=" "><h5 className=" text-white px-3 py-2">Mon-Sat, 9am-7pm (EST)</h5></div>
