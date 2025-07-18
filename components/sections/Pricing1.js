@@ -31,7 +31,7 @@ export default function Pricing1() {
                                                 <h6>Basic Internet</h6>
                                             </div>
                                             <div className="pricing-header">
-                                                <h2>$65.00</h2>
+                                                <h2>$54.99</h2>
                                                 <span>Per month</span>
                                                 <p>
                                                 For Everyday Browsing
@@ -71,7 +71,7 @@ export default function Pricing1() {
                                                 <h6>Standard Cable</h6>
                                             </div>
                                             <div className="pricing-header">
-                                                <h2>$80.00</h2>
+                                                <h2>$94.99</h2>
                                                 <span>Per month</span>
                                                 <p>
                                                 For Entertainment Lovers
@@ -111,7 +111,7 @@ export default function Pricing1() {
                                                 <h6>Premium Fiber</h6>
                                             </div>
                                             <div className="pricing-header">
-                                                <h2>$90.00</h2>
+                                                <h2>$149.99</h2>
                                                 <span>Per month</span>
                                                 <p>
                                                 For Ultimate Speed
