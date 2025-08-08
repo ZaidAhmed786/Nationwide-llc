@@ -16,8 +16,8 @@ export default function RefundPolicy() {
                                 <h2 className="wow fadeInUp" data-wow-delay=".3s">
                                 Your Rights Regarding Refunds
                                 </h2>
-                                <p className="fw-medium pt-4">Last Updated on April 16, 2025</p>
-                                <p className="fw-medium pt-4">A full refund shall be issued if you choose to cancel any service after its delivery within 30 days of making the payment. If you terminate any service after the initial 30 days, you shall be charged an amount equivalent to the working hours put into the project. The balance shall be credited to your account within 45 days of cancellation.</p>
+                                <p className="fw-medium pt-4">Last Updated on August 9, 2025</p>
+                                <p className="fw-medium pt-4">A full refund shall be issued if you choose to cancel any service after its delivery within 60 days of making the payment. If you terminate any service after the initial 60 days, you shall be charged an amount equivalent to the working hours put into the project. The balance shall be credited to your account within 45 days of cancellation.</p>
                                 </div>
                                 <div className="d-flex align-items-center gap-3 mt-4">
                                 <img src="/assets/img/delete-left-solid.png" alt="icon-img" className='img-fluid' width="25px" />

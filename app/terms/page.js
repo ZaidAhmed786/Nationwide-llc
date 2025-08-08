@@ -16,7 +16,7 @@ export default function TremsPolicy() {
                                 <h2 className="wow fadeInUp" data-wow-delay=".3s">
                                 Legal Terms Governing Our Services
                                 </h2>
-                                <p className="fw-medium pt-4">Last Updated on May 9, 2024</p>
+                                <p className="fw-medium pt-4">Last Updated on August 9, 2025</p>
                                 </div>
                                 <div className="d-flex align-items-center gap-3 mt-4">
                                 <img src="/assets/img/globe-solid.png" alt="icon-img" className='img-fluid' width="20px" />
