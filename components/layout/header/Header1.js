@@ -20,11 +20,11 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link className="text-decoration-none link"href="mailto:sales@nbandwidth.com">sales@nbandwidth.com </Link>
+                                    <Link className="text-decoration-none link"href="mailto:sales@henriksencontracting.net">sales@henriksencontracting.net </Link>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <a href="tel:+18888688345" className="link">+1 (888) 868-8345</a>
+                                    <a href="tel:+18884834379" className="link">+1 (888) 483-4379</a>
                                 </li>
                             </ul>
                             <div className=" "><h5 className=" text-white px-3 py-2">Mon-Sat, 9am-7pm (EST)</h5></div>
@@ -40,7 +40,7 @@ export default function Header1({
                                 <div className="header-left">
                                     <div className="logo">
                                         <Link className="text-decoration-none header-logo"href="/" >
-                                            <img src="./assets/img/logo/logo.png" className="img-fluid" width="60%"  />
+                                            <h3>Henriksen Contracting LLc</h3>
                                         </Link>
                                     </div>
                                 </div>

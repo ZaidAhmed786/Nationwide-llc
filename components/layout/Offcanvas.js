@@ -15,7 +15,7 @@ export default function Offcanvas({
                             <div className="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                                 <div className="offcanvas__logo">
                                     <Link className="text-decoration-none"href="/">
-                                        <h3>Nationwide Bandwidth LLC</h3>
+                                        <h3>Henriksen Contracting LLC</h3>
                                     </Link>
                                 </div>
                                 <div className="offcanvas__close" onClick={handleOffCanvas}>
@@ -37,7 +37,7 @@ export default function Offcanvas({
                                             <i className="fal fa-map-marker-alt" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link className="text-decoration-none"target="_blank" href="#">432 Downing Cir, Davenport, FL 33897-8592</Link>
+                                            <Link className="text-decoration-none"target="_blank" href="#">4154 SE Capitol Cir, Grimes, IA 50111-4854</Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -45,7 +45,7 @@ export default function Offcanvas({
                                             <i className="fal fa-envelope" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link className="text-decoration-none"href="/mailto:info@azent.com"><span className="mailto:sales@nbandwidth.com">sales@nbandwidth.com </span></Link>
+                                            <Link className="text-decoration-none"href="/mailto:info@azent.com"><span className="mailto:sales@henriksencontracting.net">sales@henriksencontracting.net </span></Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -61,7 +61,7 @@ export default function Offcanvas({
                                             <i className="far fa-phone" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link className="text-decoration-none"href="/tel:+11002345909">+1 (888) 868-8345</Link>
+                                            <Link className="text-decoration-none"href="/tel:+11002345909">+1 (888) 483-4379</Link>
                                         </div>
                                     </li>
                                 </ul>

@@ -53,7 +53,7 @@ export default function ServiceDetails() {
                                                 </div>
                                                 <h4>Need Help? Call Here</h4>
                                                 <h5>
-                                                    <Link className="text-decoration-none"href="/tel:+1 (888) 868-8345">+208-555-0112</Link>
+                                                    <Link className="text-decoration-none"href="/tel:+1 (888) 483-4379">+208-555-0112</Link>
                                                 </h5>
                                             </div>
                                         </div>

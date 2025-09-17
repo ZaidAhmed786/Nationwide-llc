@@ -20,11 +20,11 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link className="text-decoration-none"href="/mailto:sales@nbandwidth.com" className="link">contact@zolaraconsulting.com </Link>
+                                    <Link className="text-decoration-none"href="/mailto:sales@henriksencontracting.net" >contact@henriksencontracting.net </Link>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <a href="tel:+18888688345">+1 (888) 868-8345</a>
+                                    <a href="tel:+18884834379">+1 (888) 483-4379</a>
                                 </li>
                             </ul>
                            
@@ -37,8 +37,8 @@ export default function Header1({
                             <div className="header-main style-2">
                                 <div className="header-left">
                                     <div className="logo">
-                                        <Link className="text-decoration-none"href="/" className="header-logo">
-                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Nationwide Bandwidth LLC</h3>
+                                        <Link className="text-decoration-none"href="/" >
+                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Henriksen Contracting LLC</h3>
                                         </Link>
                                     </div>
                                 </div>

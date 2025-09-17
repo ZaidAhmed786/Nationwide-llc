@@ -96,7 +96,7 @@ export default function Service() {
                                                     </Link>
                                                 </h4>
                                                 <p>
-                                                Nationwide Bandwidth LLC seamlessly combines satellite and internet streaming technologies. Expect crystal-clear imagery and sound, ensuring every moment on screen is captivating.
+                                                Henriksen Contracting LLC seamlessly combines satellite and internet streaming technologies. Expect crystal-clear imagery and sound, ensuring every moment on screen is captivating.
                                                 </p>
                                                 <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
                                                     read More

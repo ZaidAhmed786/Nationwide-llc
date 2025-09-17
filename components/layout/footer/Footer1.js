@@ -16,15 +16,15 @@ export default function Footer1() {
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link className="text-decoration-none"href="/">
-                                        <img src="./assets/img/logo/logo.png" className="img-fluid" width="80%"  />
+                                        <h3>Henriksen Contracting LLc</h3>
                                         </Link>
                                     </div>
                                     <div className="footer-content">
                                         <p>
-                                        At Nationwide Bandwidth LLC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
+                                        At Henriksen Contracting LLC, we are dedicated to providing top-notch internet services to homes and businesses. Our mission is to deliver fast, reliable, and affordable connectivity, ensuring you stay connected with the world seamlessly.
                                         </p>
                                         <p>
-                                         Nationwide Bandwidth LLC
+                                         Henriksen Contracting LLC
                                         </p>
                                      
                                     </div>
@@ -39,15 +39,15 @@ export default function Footer1() {
                                         <ul className="contact-info">
                                             <li>
                                                 <i className="fas fa-map-marker-alt" />
-                                                432 Downing Cir, Davenport, FL 33897-8592
+                                                4154 SE Capitol Cir, Grimes, IA 50111-4854
                                             </li>
                                             <li>
                                                 <i className="fa-solid fa-phone-volume" />
-                                                <a href="tel:+18888688345" className="link" >+1 (888) 868-8345</a>
+                                                <a href="tel:+18884834379" className="link" >+1 (888) 483-4379</a>
                                             </li>
                                             <li className="d-flex ">
                                                 <i className="fa-regular fa-envelope mt-1" />
-                                                <Link className="text-decoration-none"href="mailto:sales@nbandwidth.com ">sales@nbandwidth.com </Link>
+                                                <Link className="text-decoration-none"href="mailto:sales@henriksencontracting.net ">sales@henriksencontracting.net </Link>
                                             </li>
                                             <li className="d-flex ">
                                                 <Link className="text-decoration-none"href="/"> <img src="./assets/img/cradit cards.png" className="img-fluid" /> </Link>
@@ -133,7 +133,7 @@ export default function Footer1() {
                     <div className="container">
                         <div className="footer-wrapper d-flex align-items-center justify-content-center mt-5 pt-4">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
-                                © All Copyright {new Date().getFullYear()}  |   Nationwide <Link className="text-decoration-none"href="/">Bandwidth LLC</Link>
+                                © All Copyright {new Date().getFullYear()}  |   Henriksen  <Link className="text-decoration-none"href="/">Contracting LLC</Link> dba Nationwide Bandwidth
                             </p>
                            
                         </div>

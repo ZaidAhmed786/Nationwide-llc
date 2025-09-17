@@ -22,7 +22,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Tell Us How Can We Help</p>
                                                         <h3>
-                                                            <a href="tel:+18888688345">+1 (888) 868-8345</a>
+                                                            <a href="tel:+18884834379">+1 (888) 483-4379</a>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -37,7 +37,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Make a Quote</p>
                                                         <h3>
-                                                            <Link className="text-decoration-none"href="mailto:infotech@gmail.com">sales@nbandwidth.com </Link>
+                                                            <Link className="text-decoration-none"href="mailto:infotech@gmail.com">sales@henriksencontracting.net </Link>
                                                         </h3>
                                                     </div>
                                                 </div>
@@ -51,7 +51,7 @@ export default function Contact1() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <h3>
-                                                        432 Downing Cir, Davenport, FL 33897-8592
+                                                        4154 SE Capitol Cir, Grimes, IA 50111-4854
                                                         </h3>
                                                     </div>
                                                 </div>

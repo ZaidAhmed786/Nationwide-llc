@@ -34,7 +34,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Call to ask any question</p>
                                                         <div >
-                                                            <Link className="text-decoration-none"href="/tel:+1 (888) 868-8345" className="text-white fs-6 fw-bold">+1 (888) 868-8345</Link>
+                                                            <Link className="text-decoration-none"href="/tel:+1 (888) 483-4379" className="text-white fs-6 fw-bold">+1 (888) 483-4379</Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -49,7 +49,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Email to get free quote</p>
                                                         <div >
-                                                            <Link className="text-decoration-none"href="/mailto:sales@nbandwidth.com " className="text-white fs-6 fw-bold">sales@nbandwidth.com </Link>
+                                                            <Link className="text-decoration-none"href="/mailto:sales@henriksencontracting.net " className="text-white fs-6 fw-bold">sales@henriksencontracting.net </Link>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -63,7 +63,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Location</p>
                                                         <div className="text-white fs-6 fw-bold">
-                                                        1432 Downing Cir, Davenport, FL 33897-8592
+                                                        14154 SE Capitol Cir, Grimes, IA 50111-4854
                                                         </div>
                                                     </div>
                                                 </div>
