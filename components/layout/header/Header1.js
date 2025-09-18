@@ -20,11 +20,13 @@ export default function Header1({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link className="text-decoration-none link"href="mailto:sales@henriksencontracting.net">sales@henriksencontracting.net </Link>
+                                    <a    href="mailto:sales@nbandwidth.com"
+                                                target="_blank"
+                                                rel="noopener noreferrer" className="link">sales@nbandwidth.com </a>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <a href="tel:+18884834379" className="link">+1 (888) 483-4379</a>
+                                    <a href="tel:+1888359206">+1 (888) 483-4379</a>
                                 </li>
                             </ul>
                             <div className=" "><h5 className=" text-white px-3 py-2">Mon-Sat, 9am-7pm (EST)</h5></div>
@@ -39,9 +41,10 @@ export default function Header1({
                             <div className="header-main style-2">
                                 <div className="header-left">
                                     <div className="logo">
-                                        <Link className="text-decoration-none header-logo"href="/" >
-                                            <h3>Henriksen Contracting LLc</h3>
-                                        </Link>
+                                        <a href="/" className="header-logo">
+                                            <h3 style={{fontSize: "30px", fontWeight: "bold"}}>Henriksen Contracting LLC
+</h3>
+                                        </a>
                                     </div>
                                 </div>
                                 <div className="header-right d-flex justify-content-end align-items-center">

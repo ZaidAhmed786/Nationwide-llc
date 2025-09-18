@@ -26,10 +26,10 @@
 //                                             curabitur lacinia mollis
 //                                         </p>
 //                                         <div className="social-icon d-flex align-items-center">
-//                                             <Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link>
-//                                             <Link className="text-decoration-none"href="#"><i className="fab fa-twitter" /></Link>
-//                                             <Link className="text-decoration-none"href="#"><i className="fa-brands fa-linkedin-in" /></Link>
-//                                             <Link className="text-decoration-none"href="#"><i className="fa-brands fa-youtube" /></Link>
+//                                             <a href="#"><i className="fab fa-facebook-f" /></a>
+//                                             <a href="#"><i className="fab fa-twitter" /></a>
+//                                             <a href="#"><i className="fa-brands fa-linkedin-in" /></a>
+//                                             <a href="#"><i className="fa-brands fa-youtube" /></a>
 //                                         </div>
 //                                     </div>
 //                                 </div>
@@ -41,34 +41,34 @@
 //                                     </div>
 //                                     <ul className="list-area">
 //                                         <li>
-//                                             <Link className="text-decoration-none"href="/about">
+//                                             <a href="/about">
 //                                                 <i className="fa-solid fa-chevron-right" />
 //                                                 Infotech About
-//                                             </Link>
+//                                             </a>
 //                                         </li>
 //                                         <li>
-//                                             <Link className="text-decoration-none"href="/service">
+//                                             <a href="/service">
 //                                                 <i className="fa-solid fa-chevron-right" />
 //                                                 Our Services
-//                                             </Link>
+//                                             </a>
 //                                         </li>
 //                                         <li>
-//                                             <Link className="text-decoration-none"href="/news">
+//                                             <a href="/news">
 //                                                 <i className="fa-solid fa-chevron-right" />
 //                                                 Our Blogs
-//                                             </Link>
+//                                             </a>
 //                                         </li>
 //                                         <li>
-//                                             <Link className="text-decoration-none"href="/faq">
+//                                             <a href="/faq">
 //                                                 <i className="fa-solid fa-chevron-right" />
 //                                                 FAQ’S
-//                                             </Link>
+//                                             </a>
 //                                         </li>
 //                                         <li>
-//                                             <Link className="text-decoration-none"href="/contact">
+//                                             <a href="/contact">
 //                                                 <i className="fa-solid fa-chevron-right" />
 //                                                 Contact Us
-//                                             </Link>
+//                                             </a>
 //                                         </li>
 //                                     </ul>
 //                                 </div>
@@ -80,34 +80,34 @@
 //                                     </div>
 //                                     <ul className="list-area">
 //                                         <li>
-//                                             <Link className="text-decoration-none"href="/service-details">
+//                                             <a href="/service-details">
 //                                                 <i className="fa-solid fa-chevron-right" />
 //                                                 IT Management
-//                                             </Link>
+//                                             </a>
 //                                         </li>
 //                                         <li>
-//                                             <Link className="text-decoration-none"href="/service-details">
+//                                             <a href="/service-details">
 //                                                 <i className="fa-solid fa-chevron-right" />
 //                                                 Web Development
-//                                             </Link>
+//                                             </a>
 //                                         </li>
 //                                         <li>
-//                                             <Link className="text-decoration-none"href="/service-details">
+//                                             <a href="/service-details">
 //                                                 <i className="fa-solid fa-chevron-right" />
 //                                                 Cyber Security
-//                                             </Link>
+//                                             </a>
 //                                         </li>
 //                                         <li>
-//                                             <Link className="text-decoration-none"href="/service-details">
+//                                             <a href="/service-details">
 //                                                 <i className="fa-solid fa-chevron-right" />
 //                                                 SEO Optimization
-//                                             </Link>
+//                                             </a>
 //                                         </li>
 //                                         <li>
-//                                             <Link className="text-decoration-none"href="/service-details">
+//                                             <a href="/service-details">
 //                                                 <i className="fa-solid fa-chevron-right" />
 //                                                 App Development
-//                                             </Link>
+//                                             </a>
 //                                         </li>
 //                                     </ul>
 //                                 </div>
@@ -137,18 +137,18 @@
 //                     <div className="container">
 //                         <div className="footer-wrapper d-flex align-items-center justify-content-between">
 //                             <div className="footer-logo wow fadeInLeft" data-wow-delay=".3s">
-//                                 <Link className="text-decoration-none"href="/">
+//                                 <a href="/">
 //                                     <img src="/assets/img/logo/white-logo.svg" alt="logo-img" />
-//                                 </Link>
+//                                 </a>
 //                             </div>
 //                             <p className="wow fadeInRight color-2" data-wow-delay=".5s">
-//                                 © All Copyright {new Date().getFullYear()} by <Link className="text-decoration-none"href="/">Infotech</Link>
+//                                 © All Copyright {new Date().getFullYear()} by <a href="/">Infotech</a>
 //                             </p>
 //                         </div>
 //                     </div>
-//                     <Link className="text-decoration-none"href="#" id="scrollUp" className="scroll-icon">
+//                     <a href="#" id="scrollUp" className="scroll-icon">
 //                         <i className="far fa-arrow-up" />
-//                     </Link>
+//                     </a>
 //                 </div>
 //             </footer>
 

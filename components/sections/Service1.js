@@ -1,5 +1,5 @@
 'use client'
-import Link from "next/link"
+import Link from 'next/link'
 import { Autoplay, Navigation, Pagination } from "swiper/modules"
 import { Swiper, SwiperSlide } from "swiper/react"
 
@@ -64,17 +64,17 @@ export default function Service1() {
                                         </div>
                                         <div className="content">
                                             <h4>
-                                                <Link className="text-decoration-none"href="/service-details">
+                                                <a href="/about">
                                                 Satellite Internet
-                                                </Link>
+                                                </a>
                                             </h4>
                                             <p>
                                             Reliable satellite internet for rural and remote areas, providing consistent connectivity where traditional services fall short.
                                             </p>
-                                            <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
+                                            <a href="/about" className="theme-btn-2 mt-3">
                                                 read More
                                                 <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
+                                            </a>
                                         </div>
                                     </div>
                                 </SwiperSlide>
@@ -86,17 +86,17 @@ export default function Service1() {
                                         </div>
                                         <div className="content">
                                             <h4>
-                                                <Link className="text-decoration-none"href="/service-details">
+                                                <a href="/about">
                                                 Fiber-Optic Internet
-                                                </Link>
+                                                </a>
                                             </h4>
                                             <p>
                                             Experience ultra-fast fiber-optic internet with speeds up to 1 Gbps, ensuring seamless streaming, gaming, and browsing.
                                             </p>
-                                            <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
+                                            <a href="/about" className="theme-btn-2 mt-3">
                                                 read More
                                                 <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
+                                            </a>
                                         </div>
                                     </div>
                                 </SwiperSlide>
@@ -108,17 +108,17 @@ export default function Service1() {
                                         </div>
                                         <div className="content">
                                             <h4>
-                                                <Link className="text-decoration-none"href="/service-details">
+                                                <a href="/about">
                                                 VoIP and Landline Services
-                                                </Link>
+                                                </a>
                                             </h4>
                                             <p>
                                             Affordable VoIP and landline services for clear and reliable voice communication, with flexible plans tailored to your needs.
                                             </p>
-                                            <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
+                                            <a href="/about" className="theme-btn-2 mt-3">
                                                 read More
                                                 <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
+                                            </a>
                                         </div>
                                     </div>
                                 </SwiperSlide>
@@ -130,17 +130,17 @@ export default function Service1() {
                                         </div>
                                         <div className="content">
                                             <h4>
-                                                <Link className="text-decoration-none"href="/service-details">
+                                                <a href="/about">
                                                 TV and Streaming Services
-                                                </Link>
+                                                </a>
                                             </h4>
                                             <p>
                                             Bundled TV and streaming packages with your internet plan, providing entertainment options that cater to all tastes.
                                             </p>
-                                            <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
+                                            <a href="/about" className="theme-btn-2 mt-3">
                                                 read More
                                                 <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
+                                            </a>
                                         </div>
                                     </div>
                                 </SwiperSlide>
@@ -152,17 +152,17 @@ export default function Service1() {
                                         </div>
                                         <div className="content">
                                             <h4>
-                                                <Link className="text-decoration-none"href="/service-details">
+                                                <a href="/about">
                                                 Wi-Fi Solutions
-                                                </Link>
+                                                </a>
                                             </h4>
                                             <p>
                                             Comprehensive Wi-Fi solutions for homes and businesses, ensuring strong, uninterrupted wireless connectivity throughout your space.
                                             </p>
-                                            <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
+                                            <a href="/about" className="theme-btn-2 mt-3">
                                                 read More
                                                 <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
+                                            </a>
                                         </div>
                                     </div>
                                 </SwiperSlide>

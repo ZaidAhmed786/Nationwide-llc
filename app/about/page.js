@@ -22,7 +22,8 @@ export default function About() {
                                 Delivering Unmatched Connectivity Across the Nation
                                 </h2>
                                 <p className="fw-medium pt-5">
-                                At Henriksen Contracting LLC, we are committed to providing the best in class Internet, cable, and phone services to our customers. Here’s how we stand out:
+                                At Henriksen Contracting LLC
+, we are committed to providing the best in class Internet, cable, and phone services to our customers. Here’s how we stand out:
                                 </p>
                                 
                                 <div className="d-flex align-items-center gap-3 mt-4">

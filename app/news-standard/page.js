@@ -34,15 +34,15 @@ export default function NewsStandard() {
                                                 </li>
                                             </ul>
                                             <h3>
-                                                <Link className="text-decoration-none"href="/news-details">Keep Your Business Safe &amp; Ensure High Availability</Link>
+                                                <a href="/news-details">Keep Your Business Safe &amp; Ensure High Availability</a>
                                             </h3>
                                             <p>
                                                 Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur..
                                             </p>
-                                            <Link className="text-decoration-none"href="/news-details" className="theme-btn mt-4">
+                                            <a href="/news-details" className="theme-btn mt-4">
                                                 Read More
                                                 <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
+                                            </a>
                                         </div>
                                     </div>
                                     <div className="news-standard-items">
@@ -67,15 +67,15 @@ export default function NewsStandard() {
                                                 </li>
                                             </ul>
                                             <h3>
-                                                <Link className="text-decoration-none"href="/news-details">Tackling the Changes of Retail Industry</Link>
+                                                <a href="/news-details">Tackling the Changes of Retail Industry</a>
                                             </h3>
                                             <p>
                                                 Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur..
                                             </p>
-                                            <Link className="text-decoration-none"href="/news-details" className="theme-btn mt-4">
+                                            <a href="/news-details" className="theme-btn mt-4">
                                                 Read More
                                                 <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
+                                            </a>
                                         </div>
                                     </div>
                                     <div className="news-standard-items">
@@ -100,23 +100,23 @@ export default function NewsStandard() {
                                                 </li>
                                             </ul>
                                             <h3>
-                                                <Link className="text-decoration-none"href="/news-details">What’s the Holding Back the It Solution</Link>
+                                                <a href="/news-details">What’s the Holding Back the It Solution</a>
                                             </h3>
                                             <p>
                                                 Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur..
                                             </p>
-                                            <Link className="text-decoration-none"href="/news-details" className="theme-btn mt-4">
+                                            <a href="/news-details" className="theme-btn mt-4">
                                                 Read More
                                                 <i className="fa-solid fa-arrow-right-long" />
-                                            </Link>
+                                            </a>
                                         </div>
                                     </div>
                                     <div className="page-nav-wrap pt-5 text-center">
                                         <ul>
-                                            <li><Link className="text-decoration-none"className="page-numbers" href="#">01</Link></li>
-                                            <li><Link className="text-decoration-none"className="page-numbers" href="#">02</Link></li>
-                                            <li><Link className="text-decoration-none"className="page-numbers" href="#">03</Link></li>
-                                            <li><Link className="text-decoration-none"className="page-numbers" href="#"><i className="fa-solid fa-arrow-right-long" /></Link></li>
+                                            <li><a className="page-numbers" href="#">01</a></li>
+                                            <li><a className="page-numbers" href="#">02</a></li>
+                                            <li><a className="page-numbers" href="#">03</a></li>
+                                            <li><a className="page-numbers" href="#"><i className="fa-solid fa-arrow-right-long" /></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -140,11 +140,11 @@ export default function NewsStandard() {
                                         </div>
                                         <div className="news-widget-categories">
                                             <ul>
-                                                <li><Link className="text-decoration-none"href="/news-details">Database Security</Link> <span>(08)</span></li>
-                                                <li><Link className="text-decoration-none"href="/news-details">IT Consultancy</Link> <span>(11)</span></li>
-                                                <li className="active"><Link className="text-decoration-none"href="/news-details">App Development</Link><span>(12)</span></li>
-                                                <li><Link className="text-decoration-none"href="/news-details">UI/UX Design</Link> <span>(18)</span></li>
-                                                <li><Link className="text-decoration-none"href="/news-details">Cyber Security</Link> <span>(07)</span></li>
+                                                <li><a href="/news-details">Database Security</a> <span>(08)</span></li>
+                                                <li><a href="/news-details">IT Consultancy</a> <span>(11)</span></li>
+                                                <li className="active"><a href="/news-details">App Development</a><span>(12)</span></li>
+                                                <li><a href="/news-details">UI/UX Design</a> <span>(18)</span></li>
+                                                <li><a href="/news-details">Cyber Security</a> <span>(07)</span></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -165,10 +165,10 @@ export default function NewsStandard() {
                                                         </li>
                                                     </ul>
                                                     <h6>
-                                                        <Link className="text-decoration-none"href="/news-details">
+                                                        <a href="/news-details">
                                                             Keep Your Business Safe &amp; <br />
                                                             Endure High Availability
-                                                        </Link>
+                                                        </a>
                                                     </h6>
                                                 </div>
                                             </div>
@@ -184,10 +184,10 @@ export default function NewsStandard() {
                                                         </li>
                                                     </ul>
                                                     <h6>
-                                                        <Link className="text-decoration-none"href="/news-details">
+                                                        <a href="/news-details">
                                                             Tacking the Changes of <br />
                                                             Retail Industry
-                                                        </Link>
+                                                        </a>
                                                     </h6>
                                                 </div>
                                             </div>
@@ -203,10 +203,10 @@ export default function NewsStandard() {
                                                         </li>
                                                     </ul>
                                                     <h6>
-                                                        <Link className="text-decoration-none"href="/news-details">
+                                                        <a href="/news-details">
                                                             What’s the Holding Back <br />
                                                             the It Solution
-                                                        </Link>
+                                                        </a>
                                                     </h6>
                                                 </div>
                                             </div>
@@ -218,13 +218,13 @@ export default function NewsStandard() {
                                         </div>
                                         <div className="news-widget-categories">
                                             <div className="tagcloud">
-                                                <Link className="text-decoration-none"href="/news-standard">News</Link>
-                                                <Link className="text-decoration-none"href="/news-details">business</Link>
-                                                <Link className="text-decoration-none"href="/news-details">marketing</Link>
-                                                <Link className="text-decoration-none"href="/news-details">solution</Link>
-                                                <Link className="text-decoration-none"href="/news-details">SMM</Link>
-                                                <Link className="text-decoration-none"href="/news-details">strategy</Link>
-                                                <Link className="text-decoration-none"href="/news-details">SEO</Link>
+                                                <a href="/news-standard">News</a>
+                                                <a href="/news-details">business</a>
+                                                <a href="/news-details">marketing</a>
+                                                <a href="/news-details">solution</a>
+                                                <a href="/news-details">SMM</a>
+                                                <a href="/news-details">strategy</a>
+                                                <a href="/news-details">SEO</a>
                                             </div>
                                         </div>
                                     </div>

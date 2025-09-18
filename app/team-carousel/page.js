@@ -1,7 +1,7 @@
 'use client'
 import Layout from "@/components/layout/Layout"
 import BrandSlider1 from "@/components/slider/BrandSlider1"
-import Link from "next/link"
+import Link from 'next/link'
 import { Autoplay, Navigation, Pagination } from "swiper/modules"
 import { Swiper, SwiperSlide } from "swiper/react"
 
@@ -54,16 +54,16 @@ export default function TeamCarousel() {
                                                 <img src="/assets/img/team/04.jpg" alt="team-img" />
                                                 <div className="social-profile">
                                                     <ul>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fa-brands fa-twitter" /></Link></li>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                                        <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                                        <li><a href="#"><i className="fa-brands fa-twitter" /></a></li>
+                                                        <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                                     </ul>
                                                     <span className="plus-btn"><i className="fas fa-share-alt" /></span>
                                                 </div>
                                             </div>
                                             <div className="team-content text-center">
                                                 <h3>
-                                                    <Link className="text-decoration-none"href="/team-details">Marvin McKinney</Link>
+                                                    <a href="/team-details">Marvin McKinney</a>
                                                 </h3>
                                                 <p>Web Designer</p>
                                             </div>
@@ -75,16 +75,16 @@ export default function TeamCarousel() {
                                                 <img src="/assets/img/team/05.jpg" alt="team-img" />
                                                 <div className="social-profile">
                                                     <ul>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fa-brands fa-twitter" /></Link></li>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                                        <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                                        <li><a href="#"><i className="fa-brands fa-twitter" /></a></li>
+                                                        <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                                     </ul>
                                                     <span className="plus-btn"><i className="fas fa-share-alt" /></span>
                                                 </div>
                                             </div>
                                             <div className="team-content text-center">
                                                 <h3>
-                                                    <Link className="text-decoration-none"href="/team-details">Marvin McKinney</Link>
+                                                    <a href="/team-details">Marvin McKinney</a>
                                                 </h3>
                                                 <p>Web Designer</p>
                                             </div>
@@ -96,16 +96,16 @@ export default function TeamCarousel() {
                                                 <img src="/assets/img/team/06.jpg" alt="team-img" />
                                                 <div className="social-profile">
                                                     <ul>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fa-brands fa-twitter" /></Link></li>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                                        <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                                        <li><a href="#"><i className="fa-brands fa-twitter" /></a></li>
+                                                        <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                                     </ul>
                                                     <span className="plus-btn"><i className="fas fa-share-alt" /></span>
                                                 </div>
                                             </div>
                                             <div className="team-content text-center">
                                                 <h3>
-                                                    <Link className="text-decoration-none"href="/team-details">Marvin McKinney</Link>
+                                                    <a href="/team-details">Marvin McKinney</a>
                                                 </h3>
                                                 <p>Web Designer</p>
                                             </div>
@@ -117,16 +117,16 @@ export default function TeamCarousel() {
                                                 <img src="/assets/img/team/07.jpg" alt="team-img" />
                                                 <div className="social-profile">
                                                     <ul>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fa-brands fa-twitter" /></Link></li>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                                        <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                                        <li><a href="#"><i className="fa-brands fa-twitter" /></a></li>
+                                                        <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                                     </ul>
                                                     <span className="plus-btn"><i className="fas fa-share-alt" /></span>
                                                 </div>
                                             </div>
                                             <div className="team-content text-center">
                                                 <h3>
-                                                    <Link className="text-decoration-none"href="/team-details">Marvin McKinney</Link>
+                                                    <a href="/team-details">Marvin McKinney</a>
                                                 </h3>
                                                 <p>Web Designer</p>
                                             </div>
@@ -138,16 +138,16 @@ export default function TeamCarousel() {
                                                 <img src="/assets/img/team/07.jpg" alt="team-img" />
                                                 <div className="social-profile">
                                                     <ul>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fa-brands fa-twitter" /></Link></li>
-                                                        <li><Link className="text-decoration-none"href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                                        <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                                        <li><a href="#"><i className="fa-brands fa-twitter" /></a></li>
+                                                        <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                                     </ul>
                                                     <span className="plus-btn"><i className="fas fa-share-alt" /></span>
                                                 </div>
                                             </div>
                                             <div className="team-content text-center">
                                                 <h3>
-                                                    <Link className="text-decoration-none"href="/team-details">Marvin McKinney</Link>
+                                                    <a href="/team-details">Marvin McKinney</a>
                                                 </h3>
                                                 <p>Web Designer</p>
                                             </div>

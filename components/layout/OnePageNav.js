@@ -5,10 +5,10 @@
 //         <>
 //             <ul>
 //                 <li className="has-dropdown active menu-thumb">
-//                     <Link className="text-decoration-none"href="/">
+//                     <a href="/">
 //                         Home
 //                         <i className="fas fa-angle-down ps-1" />
-//                     </Link>
+//                     </a>
 //                     <ul className="submenu has-homemenu">
 //                         <li>
 //                             <div className="homemenu-items">
@@ -16,12 +16,12 @@
 //                                     <div className="homemenu-thumb">
 //                                         <img src="assets/img/header/home-1.jpg" alt="img" />
 //                                         <div className="demo-button">
-//                                             <Link className="text-decoration-none"href="/" className="theme-btn">
+//                                             <a href="/" className="theme-btn">
 //                                                 <span>Multi Page</span>
-//                                             </Link>
-//                                             <Link className="text-decoration-none"href="/index-one-page" className="theme-btn">
+//                                             </a>
+//                                             <a href="/index-one-page" className="theme-btn">
 //                                                 <span>One Page</span>
-//                                             </Link>
+//                                             </a>
 //                                         </div>
 //                                     </div>
 //                                     <div className="homemenu-content text-center">
@@ -34,12 +34,12 @@
 //                                     <div className="homemenu-thumb mb-15">
 //                                         <img src="assets/img/header/home-2.jpg" alt="img" />
 //                                         <div className="demo-button">
-//                                             <Link className="text-decoration-none"href="/index-2" className="theme-btn">
+//                                             <a href="/index-2" className="theme-btn">
 //                                                 <span>Multi Page</span>
-//                                             </Link>
-//                                             <Link className="text-decoration-none"href="/index-two-page" className="theme-btn">
+//                                             </a>
+//                                             <a href="/index-two-page" className="theme-btn">
 //                                                 <span>One Page</span>
-//                                             </Link>
+//                                             </a>
 //                                         </div>
 //                                     </div>
 //                                     <div className="homemenu-content text-center">
@@ -52,12 +52,12 @@
 //                                     <div className="homemenu-thumb mb-15">
 //                                         <img src="assets/img/header/home-3.jpg" alt="img" />
 //                                         <div className="demo-button">
-//                                             <Link className="text-decoration-none"href="/index-3" className="theme-btn">
+//                                             <a href="/index-3" className="theme-btn">
 //                                                 <span>Multi Page</span>
-//                                             </Link>
-//                                             <Link className="text-decoration-none"href="/index-three-page" className="theme-btn">
+//                                             </a>
+//                                             <a href="/index-three-page" className="theme-btn">
 //                                                 <span>One Page</span>
-//                                             </Link>
+//                                             </a>
 //                                         </div>
 //                                     </div>
 //                                     <div className="homemenu-content text-center">
@@ -70,12 +70,12 @@
 //                                     <div className="homemenu-thumb mb-15">
 //                                         <img src="assets/img/header/home-4.jpg" alt="img" />
 //                                         <div className="demo-button">
-//                                             <Link className="text-decoration-none"href="/index-4" className="theme-btn">
+//                                             <a href="/index-4" className="theme-btn">
 //                                                 <span>Multi Page</span>
-//                                             </Link>
-//                                             <Link className="text-decoration-none"href="/index-four-page" className="theme-btn">
+//                                             </a>
+//                                             <a href="/index-four-page" className="theme-btn">
 //                                                 <span>One Page</span>
-//                                             </Link>
+//                                             </a>
 //                                         </div>
 //                                     </div>
 //                                     <div className="homemenu-content text-center">
@@ -89,19 +89,19 @@
 //                     </ul>
 //                 </li>
 //                 <li>
-//                     <Link className="text-decoration-none"href="#about">About</Link>
+//                     <a href="#about">About</a>
 //                 </li>
 //                 <li>
-//                     <Link className="text-decoration-none"href="#service">Services</Link>
+//                     <a href="#service">Services</a>
 //                 </li>
 //                 <li>
-//                     <Link className="text-decoration-none"href="#project">Projects</Link>
+//                     <a href="#project">Projects</a>
 //                 </li>
 //                 <li>
-//                     <Link className="text-decoration-none"href="#team">Team</Link>
+//                     <a href="#team">Team</a>
 //                 </li>
 //                 <li>
-//                     <Link className="text-decoration-none"href="#blog">Blog</Link>
+//                     <a href="#blog">Blog</a>
 //                 </li>
 //             </ul>
 

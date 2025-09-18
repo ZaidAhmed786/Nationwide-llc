@@ -54,11 +54,11 @@ export default function ProjectSlider2({ showDots }) {
                                 <div className="project-content">
                                     <p>Technology</p>
                                     <h4>
-                                        <Link className="text-decoration-none"href="/project-details">Software Development</Link>
+                                        <a href="/project-details">Software Development</a>
                                     </h4>
-                                    <Link className="text-decoration-none"href="/project-details" className="arrow-icon">
+                                    <a href="/project-details" className="arrow-icon">
                                         <i className="fa-solid fa-arrow-right" />
-                                    </Link>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -70,11 +70,11 @@ export default function ProjectSlider2({ showDots }) {
                                 <div className="project-content">
                                     <p>Technology</p>
                                     <h4>
-                                        <Link className="text-decoration-none"href="/project-details">Analytic Solutions</Link>
+                                        <a href="/project-details">Analytic Solutions</a>
                                     </h4>
-                                    <Link className="text-decoration-none"href="/project-details" className="arrow-icon">
+                                    <a href="/project-details" className="arrow-icon">
                                         <i className="fa-solid fa-arrow-right" />
-                                    </Link>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -86,11 +86,11 @@ export default function ProjectSlider2({ showDots }) {
                                 <div className="project-content">
                                     <p>Solutions</p>
                                     <h4>
-                                        <Link className="text-decoration-none"href="/project-details">Design Solutions</Link>
+                                        <a href="/project-details">Design Solutions</a>
                                     </h4>
-                                    <Link className="text-decoration-none"href="/project-details" className="arrow-icon">
+                                    <a href="/project-details" className="arrow-icon">
                                         <i className="fa-solid fa-arrow-right" />
-                                    </Link>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -102,11 +102,11 @@ export default function ProjectSlider2({ showDots }) {
                                 <div className="project-content">
                                     <p>Solutions</p>
                                     <h4>
-                                        <Link className="text-decoration-none"href="/project-details">Design Solutions</Link>
+                                        <a href="/project-details">Design Solutions</a>
                                     </h4>
-                                    <Link className="text-decoration-none"href="/project-details" className="arrow-icon">
+                                    <a href="/project-details" className="arrow-icon">
                                         <i className="fa-solid fa-arrow-right" />
-                                    </Link>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -118,11 +118,11 @@ export default function ProjectSlider2({ showDots }) {
                                 <div className="project-content">
                                     <p>Solutions</p>
                                     <h4>
-                                        <Link className="text-decoration-none"href="/project-details">Design Solutions</Link>
+                                        <a href="/project-details">Design Solutions</a>
                                     </h4>
-                                    <Link className="text-decoration-none"href="/project-details" className="arrow-icon">
+                                    <a href="/project-details" className="arrow-icon">
                                         <i className="fa-solid fa-arrow-right" />
-                                    </Link>
+                                    </a>
                                 </div>
                             </div>
                         </div>

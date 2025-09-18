@@ -19,10 +19,10 @@ export default function Error404() {
                                         Whoops! This Page got Lost <br />
                                         in converstion
                                     </h2>
-                                    <Link className="text-decoration-none"href="/" className="theme-btn wow fadeInUp" data-wow-delay=".8s">
+                                    <a href="/" className="theme-btn wow fadeInUp" data-wow-delay=".8s">
                                         Go Back Home
                                         <i className="fa-solid fa-arrow-right-long" />
-                                    </Link>
+                                    </a>
                                 </div>
                             </div>
                         </div>

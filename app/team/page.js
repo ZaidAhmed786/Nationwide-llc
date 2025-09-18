@@ -17,15 +17,15 @@ export default function Team() {
                                         <div className="social-profile">
                                             <span className="plus-btn"><i className="fas fa-share-alt" /></span>
                                             <ul>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fa-brands fa-twitter" /></Link></li>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                                <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                                <li><a href="#"><i className="fa-brands fa-twitter" /></a></li>
+                                                <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div className="team-content text-center">
                                         <h3>
-                                            <Link className="text-decoration-none"href="/team-details">Marvin McKinney</Link>
+                                            <a href="/team-details">Marvin McKinney</a>
                                         </h3>
                                         <p>Web Designer</p>
                                     </div>
@@ -38,15 +38,15 @@ export default function Team() {
                                         <div className="social-profile">
                                             <span className="plus-btn"><i className="fas fa-share-alt" /></span>
                                             <ul>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fa-brands fa-twitter" /></Link></li>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                                <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                                <li><a href="#"><i className="fa-brands fa-twitter" /></a></li>
+                                                <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div className="team-content text-center">
                                         <h3>
-                                            <Link className="text-decoration-none"href="/team-details">Bessie Cooper</Link>
+                                            <a href="/team-details">Bessie Cooper</a>
                                         </h3>
                                         <p>President of Sales</p>
                                     </div>
@@ -59,15 +59,15 @@ export default function Team() {
                                         <div className="social-profile">
                                             <span className="plus-btn"><i className="fas fa-share-alt" /></span>
                                             <ul>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fa-brands fa-twitter" /></Link></li>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                                <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                                <li><a href="#"><i className="fa-brands fa-twitter" /></a></li>
+                                                <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div className="team-content text-center">
                                         <h3>
-                                            <Link className="text-decoration-none"href="/team-details">Dianne Russell</Link>
+                                            <a href="/team-details">Dianne Russell</a>
                                         </h3>
                                         <p>Marketing manager</p>
                                     </div>
@@ -80,15 +80,15 @@ export default function Team() {
                                         <div className="social-profile">
                                             <span className="plus-btn"><i className="fas fa-share-alt" /></span>
                                             <ul>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fa-brands fa-twitter" /></Link></li>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                                <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                                <li><a href="#"><i className="fa-brands fa-twitter" /></a></li>
+                                                <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div className="team-content text-center">
                                         <h3>
-                                            <Link className="text-decoration-none"href="/team-details">Leslie Alexander</Link>
+                                            <a href="/team-details">Leslie Alexander</a>
                                         </h3>
                                         <p>Software Tester</p>
                                     </div>
@@ -101,15 +101,15 @@ export default function Team() {
                                         <div className="social-profile">
                                             <span className="plus-btn"><i className="fas fa-share-alt" /></span>
                                             <ul>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fa-brands fa-twitter" /></Link></li>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                                <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                                <li><a href="#"><i className="fa-brands fa-twitter" /></a></li>
+                                                <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div className="team-content text-center">
                                         <h3>
-                                            <Link className="text-decoration-none"href="/team-details">Kathryn Murphy</Link>
+                                            <a href="/team-details">Kathryn Murphy</a>
                                         </h3>
                                         <p>General manager</p>
                                     </div>
@@ -122,15 +122,15 @@ export default function Team() {
                                         <div className="social-profile">
                                             <span className="plus-btn"><i className="fas fa-share-alt" /></span>
                                             <ul>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fab fa-facebook-f" /></Link></li>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fa-brands fa-twitter" /></Link></li>
-                                                <li><Link className="text-decoration-none"href="#"><i className="fab fa-linkedin-in" /></Link></li>
+                                                <li><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                                                <li><a href="#"><i className="fa-brands fa-twitter" /></a></li>
+                                                <li><a href="#"><i className="fab fa-linkedin-in" /></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div className="team-content text-center">
                                         <h3>
-                                            <Link className="text-decoration-none"href="/team-details">Darrell Steward</Link>
+                                            <a href="/team-details">Darrell Steward</a>
                                         </h3>
                                         <p>Medical Assistant</p>
                                     </div>

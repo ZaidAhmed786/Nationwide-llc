@@ -33,12 +33,12 @@ export default function News() {
                                             </li>
                                         </ul>
                                         <h3>
-                                            <Link className="text-decoration-none"href="/news-details">Simplify Streamline Succeed  IT Solutions</Link>
+                                            <a href="/news-details">Simplify Streamline Succeed  IT Solutions</a>
                                         </h3>
-                                        <Link className="text-decoration-none"href="/news-details" className="theme-btn-2 mt-3">
+                                        <a href="/news-details" className="theme-btn-2 mt-3">
                                             read More
                                             <i className="fa-solid fa-arrow-right-long" />
-                                        </Link>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -65,12 +65,12 @@ export default function News() {
                                             </li>
                                         </ul>
                                         <h3>
-                                            <Link className="text-decoration-none"href="/news-details">Unlocking Potential Through Technology</Link>
+                                            <a href="/news-details">Unlocking Potential Through Technology</a>
                                         </h3>
-                                        <Link className="text-decoration-none"href="/news-details" className="theme-btn-2 mt-3">
+                                        <a href="/news-details" className="theme-btn-2 mt-3">
                                             read More
                                             <i className="fa-solid fa-arrow-right-long" />
-                                        </Link>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -97,12 +97,12 @@ export default function News() {
                                             </li>
                                         </ul>
                                         <h3>
-                                            <Link className="text-decoration-none"href="/news-details">Supervisor Disapproved of Latest Work.</Link>
+                                            <a href="/news-details">Supervisor Disapproved of Latest Work.</a>
                                         </h3>
-                                        <Link className="text-decoration-none"href="/news-details" className="theme-btn-2 mt-3">
+                                        <a href="/news-details" className="theme-btn-2 mt-3">
                                             read More
                                             <i className="fa-solid fa-arrow-right-long" />
-                                        </Link>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -129,12 +129,12 @@ export default function News() {
                                             </li>
                                         </ul>
                                         <h3>
-                                            <Link className="text-decoration-none"href="/news-details">Supervisor Disapproved of Latest Work.</Link>
+                                            <a href="/news-details">Supervisor Disapproved of Latest Work.</a>
                                         </h3>
-                                        <Link className="text-decoration-none"href="/news-details" className="theme-btn-2 mt-3">
+                                        <a href="/news-details" className="theme-btn-2 mt-3">
                                             read More
                                             <i className="fa-solid fa-arrow-right-long" />
-                                        </Link>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -161,12 +161,12 @@ export default function News() {
                                             </li>
                                         </ul>
                                         <h3>
-                                            <Link className="text-decoration-none"href="/news-details">Simplify Streamline Succeed  IT Solutions</Link>
+                                            <a href="/news-details">Simplify Streamline Succeed  IT Solutions</a>
                                         </h3>
-                                        <Link className="text-decoration-none"href="/news-details" className="theme-btn-2 mt-3">
+                                        <a href="/news-details" className="theme-btn-2 mt-3">
                                             read More
                                             <i className="fa-solid fa-arrow-right-long" />
-                                        </Link>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -193,22 +193,22 @@ export default function News() {
                                             </li>
                                         </ul>
                                         <h3>
-                                            <Link className="text-decoration-none"href="/news-details">Unlocking Potential Through Technology</Link>
+                                            <a href="/news-details">Unlocking Potential Through Technology</a>
                                         </h3>
-                                        <Link className="text-decoration-none"href="/news-details" className="theme-btn-2 mt-3">
+                                        <a href="/news-details" className="theme-btn-2 mt-3">
                                             read More
                                             <i className="fa-solid fa-arrow-right-long" />
-                                        </Link>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div className="page-nav-wrap pt-5 text-center wow fadeInUp" data-wow-delay=".3s">
                             <ul>
-                                <li><Link className="text-decoration-none"className="page-numbers" href="#">01</Link></li>
-                                <li><Link className="text-decoration-none"className="page-numbers" href="#">02</Link></li>
-                                <li><Link className="text-decoration-none"className="page-numbers" href="#">03</Link></li>
-                                <li><Link className="text-decoration-none"className="page-numbers" href="#"><i className="fa-solid fa-arrow-right-long" /></Link></li>
+                                <li><a className="page-numbers" href="#">01</a></li>
+                                <li><a className="page-numbers" href="#">02</a></li>
+                                <li><a className="page-numbers" href="#">03</a></li>
+                                <li><a className="page-numbers" href="#"><i className="fa-solid fa-arrow-right-long" /></a></li>
                             </ul>
                         </div>
                     </div>

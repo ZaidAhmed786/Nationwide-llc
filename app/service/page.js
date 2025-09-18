@@ -27,17 +27,17 @@ export default function Service() {
                                             </div>
                                             <div className="content">
                                                 <h4>
-                                                    <Link className="text-decoration-none"href="/service-details">
+                                                    <a href="/service-details">
                                                     High-Quality Cable Services
-                                                    </Link>
+                                                    </a>
                                                 </h4>
                                                 <p>
                                                 Enjoy uninterrupted entertainment with our extensive range of channels and crystal-clear picture quality, thanks to our expert cable installation team.
                                                 </p>
-                                                <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
+                                                <a href="/service-details" className="theme-btn-2 mt-3">
                                                     read More
                                                     <i className="fa-solid fa-arrow-right-long" />
-                                                </Link>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -49,17 +49,17 @@ export default function Service() {
                                             </div>
                                             <div className="content">
                                                 <h4>
-                                                    <Link className="text-decoration-none"href="/service-details">
+                                                    <a href="/service-details">
                                                     Tailored Viewing Odyssey:
-                                                    </Link>
+                                                    </a>
                                                 </h4>
                                                 <p>
                                                 We believe every viewer is unique. Our diverse channel lineup caters to varied tastes—whether you crave live sports, cinematic masterpieces, enlightening documentaries, or delightful children’s content.
                                                 </p>
-                                                <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
+                                                <a href="/service-details" className="theme-btn-2 mt-3">
                                                     read More
                                                     <i className="fa-solid fa-arrow-right-long" />
-                                                </Link>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -70,17 +70,17 @@ export default function Service() {
                                             </div>
                                             <div className="content">
                                                 <h4>
-                                                    <Link className="text-decoration-none"href="/service-details">
+                                                    <a href="/service-details">
                                                     Customer-Centric Support:
-                                                    </Link>
+                                                    </a>
                                                 </h4>
                                                 <p>
                                                 Our dedicated team ensures your voice guides our journey. Your satisfaction is our destination.
                                                 </p>
-                                                <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
+                                                <a href="/service-details" className="theme-btn-2 mt-3">
                                                     read More
                                                     <i className="fa-solid fa-arrow-right-long" />
-                                                </Link>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -91,17 +91,18 @@ export default function Service() {
                                             </div>
                                             <div className="content">
                                                 <h4>
-                                                    <Link className="text-decoration-none"href="/service-details">
+                                                    <a href="/service-details">
                                                     Dual Delivery, Uninterrupted Pleasure:
-                                                    </Link>
+                                                    </a>
                                                 </h4>
                                                 <p>
-                                                Henriksen Contracting LLC seamlessly combines satellite and internet streaming technologies. Expect crystal-clear imagery and sound, ensuring every moment on screen is captivating.
+                                                Henriksen Contracting LLC
+ seamlessly combines satellite and internet streaming technologies. Expect crystal-clear imagery and sound, ensuring every moment on screen is captivating.
                                                 </p>
-                                                <Link className="text-decoration-none"href="/service-details" className="theme-btn-2 mt-3">
+                                                <a href="/service-details" className="theme-btn-2 mt-3">
                                                     read More
                                                     <i className="fa-solid fa-arrow-right-long" />
-                                                </Link>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>

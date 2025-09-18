@@ -34,7 +34,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Call to ask any question</p>
                                                         <div >
-                                                            <Link className="text-decoration-none"href="/tel:+1 (888) 483-4379" className="text-white fs-6 fw-bold">+1 (888) 483-4379</Link>
+                                                            <a href="tel:+1888359206" className="text-white fs-6 fw-bold">+1 (888) 483-4379</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -49,7 +49,7 @@ export default function Contact() {
                                                     <div className="content">
                                                         <p>Email to get free quote</p>
                                                         <div >
-                                                            <Link className="text-decoration-none"href="/mailto:sales@henriksencontracting.net " className="text-white fs-6 fw-bold">sales@henriksencontracting.net </Link>
+                                                            <a href="mailto:sales@nbandwidth.com " className="text-white fs-6 fw-bold">sales@nbandwidth.com </a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -74,7 +74,7 @@ export default function Contact() {
                                     <div className="col-lg-6">
                                         <div className="contact-content">
                                        
-                                            <form action="contact" id="contact-form" method="POST" className="contact-form-items">
+                                            <form action="contact.php" id="contact-form" method="POST" className="contact-form-items">
                                                 <div className="row g-4">
                                                     <div className="col-lg-6 wow fadeInUp" data-wow-delay=".3s">
                                                         <div className="form-clt">
@@ -111,7 +111,7 @@ export default function Contact() {
                     <div className="map-section">
                         <div className="map-items">
                             <div className="googpemap">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6678.7619084840835!2d144.9618311901502!3d-37.81450084255415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b4758afc1d%3A0x3119cc820fdfc62e!2sEnvato!5e0!3m2!1sen!2sbd!4v1641984054261!5m2!1sen!2sbd" style={{ border: 0 }} allowFullScreen loading="lazy" />
+                                <iframe  src="https://www.google.com/maps?q=585+Grove+St&output=embed" style={{ border: 0 }} allowFullScreen loading="lazy" />
                             </div>
                         </div>
                     </div>

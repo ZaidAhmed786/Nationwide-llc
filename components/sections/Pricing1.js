@@ -1,5 +1,5 @@
 
-import Link from "next/link"
+import Link from 'next/link'
 
 export default function Pricing1() {
     return (
@@ -58,10 +58,10 @@ export default function Pricing1() {
                                             </ul>
                                             <div className="pricing-button">
                                                 
-                                                <Link className="text-decoration-none"href="/contact" className="pricing-btn mt-4">
+                                                <a href="/contact" className="pricing-btn mt-4">
                                                     Order Plan
                                                     <i className="fa-solid fa-arrow-right-long" />
-                                                </Link>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -98,10 +98,10 @@ export default function Pricing1() {
                                             </ul>
                                             <div className="pricing-button">
                                                 
-                                                <Link className="text-decoration-none"href="/contact" className="pricing-btn mt-4">
+                                                <a href="/contact" className="pricing-btn mt-4">
                                                     Order Plan
                                                     <i className="fa-solid fa-arrow-right-long" />
-                                                </Link>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -138,10 +138,10 @@ export default function Pricing1() {
                                             </ul>
                                             <div className="pricing-button">
                                                
-                                                <Link className="text-decoration-none"href="/contact" className="pricing-btn mt-4">
+                                                <a href="/contact" className="pricing-btn mt-4">
                                                     Order Plan
                                                     <i className="fa-solid fa-arrow-right-long" />
-                                                </Link>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
